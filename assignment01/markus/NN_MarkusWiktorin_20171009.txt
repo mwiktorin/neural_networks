@@ -1,0 +1,6 @@
+Q: How can we avoid the add the bias seperately to the calculation in the neuron?
+A: We add a new input x_0 which is constant 1 and the bias is then the weight of this input.
+Q: How is a neuron defined?
+A: A neuron consists of a set of connection links with weights, an adder function and an activation function.
+Q: What is the difference between regression and classification?
+A: Regression tranforms features into a continous output value while classifaction gives a discrete label to some features.
