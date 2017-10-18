@@ -1,0 +1,6 @@
+Q: Is the processing stype of an AI equal to the prosessing styple of a neural network? 
+A: No, the AI is a sequential approach, while the NN is parallel.
+Q: What sould similar input result in?
+A: Similar output.
+Q: Does a neural network store experiential or experimentell knowledge?
+A: A neural network stores experiential knowledge.
