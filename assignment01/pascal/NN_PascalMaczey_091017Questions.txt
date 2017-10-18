@@ -1,0 +1,8 @@
+Q: What are the three basic elements of the neuronal model?
+A: A set of synapses or connecting links, an adder, an activation function
+
+Q: What is the difference between synaptic links and activation links?
+A: synaptic links provide a linear input-output relation whereas activation links are governed by a non-linear input-output relation.
+
+Q: How does the bias affect the neural network?
+A: The bias increases or lowers the net input of the activation function.
