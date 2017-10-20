@@ -1,0 +1,6 @@
+Q: Name three tasks for neural networks.
+A: Pattern recognition, filtering, function approximation
+Q: What is the Hebbian rule?
+A: The Hebbian rule says that if two neurons are activated syncronously their connecting synapse should be increased and if two neuros are activated asynchronously their synapse should be decreased.
+Q: What the Anti-Hebbian mean?
+A: It means the behavior opposite to the Hebbian rule: if two neurons are activated syncronously their connecting synapse should be decreased and if two neuros are activated asynchronously their synapse should be increased.
