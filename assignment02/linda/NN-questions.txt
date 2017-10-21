@@ -1,0 +1,6 @@
+Q: Is learning with a teacher usefull in a nonstationary environment? 
+A: No, in an nonstationary environment the NN must be able to learn by itselfe.
+Q: What is a example for unsupervised learning? 
+A: hebbian learning or competitive learning
+Q: Is error correction learning learning with a teacher?
+A: Yes because we use a desired response.
