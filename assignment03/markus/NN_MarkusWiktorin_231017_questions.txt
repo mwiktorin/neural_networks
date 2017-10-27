@@ -1,0 +1,6 @@
+Q: What is the definition of learning?
+A: Learning is a process by which the free parameters of a neural network are adapted in an desired way through a process of stimulation by the environment in which the network is embedded. The type of learning is determined by the manner in which the parameter change takes place.
+Q: What is the error?
+A: The difference between desired outcome and outcome of the neural net.
+Q: How can memory based learning work, there are no desired values?
+A: The available data speaks on its own, that is how the system can learn.
