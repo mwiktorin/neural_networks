@@ -1,0 +1,6 @@
+Q: What does the VC-Dimensiont say about a learning machine?
+A: It tells us how powerfull the learning machine is (how many points can be splitted by the learning machine into two groups in any combination)
+Q: How is a learning machine defined?
+A: A learning maching takes an input and transforms it using a parameter alpha. The output is either +1 or -1.
+Q: What is good and bad about high and low "power" (VC-Dimension) of a learning machine?
+A: High power can model complex things but might overfit to noise in the data, low power will not overfit but cannot model complex things.
