@@ -1,0 +1,6 @@
+Q: Why will the method of steepest descent not always find the optimal solution?
+A: It can get stuck in local minima.
+Q: Why can't the method of steepest descent be applied to any function?
+A: The function needs to be contnuously differentiable.
+Q: How is Newton's method different from steepest descent?
+A: It takes the second derivative instead of the first.
