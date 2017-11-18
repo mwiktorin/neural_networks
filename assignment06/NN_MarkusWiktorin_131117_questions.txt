@@ -1,0 +1,9 @@
+Q:What is the most important property of an activation function for back-propagation to work. 
+A:It must be differentiable.
+
+Q:How is the local gradient defined and why is it diffrent for neurons in the hidden layer 
+A:It is diffrent because for a neuron in the output layer a desired signal is available, for a hidden neuron that is not the case.
+  In the Output layer the the gradient is phi`(n)*(d(n) - y(n)). For a hidden note it's phi`(n) * SUM[local_gradient of the next layer * weight].
+ 
+Q:Name 3 heuristics that can improve the performance of back-progation algorithm. 
+A: Normalizing inputs, Sequential vs batch update, learning from hints.
