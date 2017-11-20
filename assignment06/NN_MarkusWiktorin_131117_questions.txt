@@ -4,3 +4,4 @@ Q: What do the forward pass and the backward pass in back propagation?
 A: The forward pass computes the error for each output neuron, the backward pass updates the weights in the network.
 Q: How many hidden layers do we need at most for boolean and bounded continous functions?
 A: Every boolean function can be learned by a network with one hidden layer, for bounded continous functions we also need at most one hidden layer.
+
