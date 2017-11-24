@@ -1,0 +1,6 @@
+Q: What is the Hebbian rule?
+A: The Hebbian rule says that if two neurons are activated syncronously their connecting synapse should be increased and if two neuros are activated asynchronously their synapse should be decreased.
+Q: What is good and bad about high and low "power" (VC-Dimension) of a learning machine?
+A: High power can model complex things but might overfit to noise in the data, low power will not overfit but cannot model complex things.
+Q: Why can't the method of steepest descent be applied to any function?
+A: The function needs to be contnuously differentiable.
