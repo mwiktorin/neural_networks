@@ -1,0 +1,6 @@
+Q: What does the k-mean algorithmen give?
+A: The centers of the points.
+Q: What is the advantage of casting a complex pattern-classification problem in a high-dimensional space nonlinearly?
+A: It is more likely linearly separable than in a low-dimensional space.
+Q: Where do we find the radial-basis functions in the NN?
+A: In the hidden layer.
