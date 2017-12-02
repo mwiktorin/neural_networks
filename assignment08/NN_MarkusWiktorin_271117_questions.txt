@@ -1,0 +1,6 @@
+Q: What does Cover's theorem say?
+A: A complex pattern-classification problem in a high-dimensional space is more likely to be linearly separable than in a low-dimensional space.
+Q: How does the RBF architecture look like?
+A: Some input nodes are connected to a hidden layer, which applies different non-linear functions to their inputs. These are the connected to the output layer which applies a linear transformation.
+Q: For what do we need k-means in RBFN?
+A: K-means will give us the centers which are used for the radial funtions in the hidden layers.
