@@ -1,0 +1,6 @@
+Q: Which two principles are combined in self organized maps (SOMs)?
+A: Competitive learning and topological structuring of neurons
+Q: What is the input and map layer and how are they connected in SOMs?
+A: The input layer takes all inputs. It is connected to every node in the map layer. The map layer contains arbitrarily many nodes, which are not conntected to each other.
+Q: What goes into the weight adaptation of one weight?
+A: Learning rate, distance, old weight, input
